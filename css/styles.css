@@ -526,6 +526,7 @@ li .address-list-link {
 
 .footer-adress-container {
   margin-right: 70px;
+  width: 231px;
 }
 
 .footer .social-list-link {
@@ -549,7 +550,7 @@ footer .social-list-icon {
   border: 1px solid rgba(255, 255, 255, 0.3);
   box-sizing: border-box;
   border-radius: 4px;
-  background-color: rgba(0, 0, 0, 0.15);
+  background-color: transparent;
   padding: 15px 16px;
   font-size: 16px;
   line-height: 1.25;
